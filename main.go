@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/perch98/golang-book_app/handlers"
+	"book-app/handlers" 
 )
 
 func main() {

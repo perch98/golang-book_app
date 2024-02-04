@@ -1,4 +1,4 @@
-module github.com/yourusername/book-app
+module book-app
 
 go 1.21.6
 

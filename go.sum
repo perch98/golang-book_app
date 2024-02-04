@@ -1,4 +1,2 @@
 github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
 github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
-github.com/perch98/golang-book_app v0.0.0-20240204171446-992c7131cbbd h1:IgzubYcA9UBvarx6rt3ubJmJuu/n6V/lIiOHsX0sSc0=
-github.com/perch98/golang-book_app v0.0.0-20240204171446-992c7131cbbd/go.mod h1:9pP4reivEwpDkfT+v3hIrz4K4hWuXeC7OJKxLytAqbM=
